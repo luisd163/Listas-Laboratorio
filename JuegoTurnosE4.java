@@ -82,11 +82,11 @@ class ListaJugadoresCircular {
 }
 
 // Lógica del juego por turnos
-class JuegoTurnos {
+class JuegoTurnosE4 {
     private ListaJugadoresCircular lista;
     private NodoJugador actual;
 
-    public JuegoTurnos() {
+    public JuegoTurnosE4() {
         lista = new ListaJugadoresCircular();
         actual = null;
     }
