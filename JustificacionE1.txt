@@ -1,0 +1,8 @@
+¿Se necesita recorrer en ambos sentidos?
+R/= No
+¿Se necesita volver al elemento anterior?
+R/= No
+¿El comportamiento es lineal o repetitivo?
+R/= El comportamiento es lineal, ya que avanza hacia adelante en la lista
+¿Qué tipo de inserción y eliminación se hace con mayor frecuencia?
+R/= Insertar al final, atender al primero

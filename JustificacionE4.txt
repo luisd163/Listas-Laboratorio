@@ -1,0 +1,8 @@
+//Se requiere un recorrido circular?
+//R/ Sí,porque cuando se llega al último jugador el turno debe volver al primero
+//Se necesita siguiente y anterior?
+//R/ Sí se necesita ya que el sistema debe poder consultar quién jugó antes y quién juega después
+//El sistema debe continuar indefinidamente?
+//R/ Sí, el turno se sigue pasando en un ciclo que no termina mientras la partida siga activa.
+//Eliminar nodos intermedios debe ser sencillo?
+//R/ Sí es necesario eliminar nodos intermedios de manera sencilla ya que es necesario expulsar jugadores en cualquier punto de la partida

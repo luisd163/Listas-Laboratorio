@@ -1,0 +1,8 @@
+//se necesita avanzar y retroceder?
+//R/ si se necesita avanzar y retroceder ya que debemos almacenar, regresar, retroceder,y eliminar
+//se requiere acceder a nodo anterior?
+//R/ si se requiere ya que nos piden volver a atras y tambien para poder movernos hacia adelante desde un punto medio
+//Es suficiente una sola referencia por nodo?
+//R/ No, se necesita mas ya que debe recorrer desde el inicio para retroceder
+// Qué pasa si solo se tiene next?
+//R/ solo se podria avanzar en una dirección, y para ir hacia atrás se tendria que empezar desde el principio de la lista

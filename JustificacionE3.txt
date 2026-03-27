@@ -1,0 +1,10 @@
+¿La secuencia debe reiniciarse automáticamente?
+R/= Si
+¿Hay final real de la lista?
+R/= No, ya que se repite
+¿Se necesita cerrar el recorrido sobre sí mismo?
+R/= Si
+¿Hace falta moverse hacia atrás?
+R/= No, ya que no es necesario retroceder canciones
+
+
