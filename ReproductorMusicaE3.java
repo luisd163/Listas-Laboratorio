@@ -104,5 +104,5 @@ public class ReproductorMusicaE3 {
         }
     }
 
-    // Esta estructura ´permite recorrer la lista y al llegar al final repetir la lista, ademas no es necesario recorrer la lista hacia atras
+    //Se usa ListaSimpleCircular porque las canciones deben reproducirse infinitamente en ciclo continuo.
 }

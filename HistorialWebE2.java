@@ -61,4 +61,6 @@ class HistorialNavegador {
         }
         System.out.println();
     }
+
+    // Se usa ListaDoble porque requiere navegar adelante y atrás entre páginas visitadas de forma eficiente.
 }

@@ -73,6 +73,5 @@ public class PanaderiaE1 {
         System.out.println();
     }
 
-    // La estructura elegida permite recorrer la lista en orden de inserción, además no es necesario recorrerla de adelante
-    // hacia atrás 
+    //Se usa ListaSimple porque los clientes entran y salen en orden FIFO. Solo necesita movimiento hacia adelante sin retroceso.
 }

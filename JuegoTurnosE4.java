@@ -136,4 +136,6 @@ class JuegoTurnosE4 {
     public void mostrarMesa() {
         lista.mostrarJugadores(actual);
     }
+
+    // Se usa ListaDobleCircular porque los jugadores toman turnos en orden cíclico y pueden ser eliminados de cualquier posición durante el juego.
 }
